@@ -274,4 +274,6 @@ tags
 .history
 .ionide
 
+config.ini
+
 # End of https://www.toptal.com/developers/gitignore/api/emacs,venv,vim,visualstudiocode,python
